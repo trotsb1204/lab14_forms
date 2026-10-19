@@ -11,5 +11,7 @@
             "email": "trots.b1204@lntu.edu.ua"
         }
     ],
-    "require": {}
+    "require": {
+        "respect/validation": "^2.5"
+    }
 }
