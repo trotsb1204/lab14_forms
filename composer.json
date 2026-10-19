@@ -1,0 +1,15 @@
+{
+    "name": "admin/lab14_forms",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Lab14Forms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "trotsb1204",
+            "email": "trots.b1204@lntu.edu.ua"
+        }
+    ],
+    "require": {}
+}
